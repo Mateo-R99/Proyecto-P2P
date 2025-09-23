@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+grpcio
+grpcio-tools
+protobuf
+aiofiles
+requests
+python-dotenv
