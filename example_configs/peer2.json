@@ -1,0 +1,8 @@
+{
+    "ip": "0.0.0.0",
+    "rest_port": 8002,
+    "grpc_port": 50052,
+    "directory": "example_configs/shared2",
+    "peer_titular": "http://127.0.0.1:8001",
+    "peer_suplente": "http://127.0.0.1:8003"
+}
