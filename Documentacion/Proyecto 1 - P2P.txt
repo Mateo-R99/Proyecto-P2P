@@ -1,0 +1,19 @@
+Proyecto 1 - P2P
+Arquitectura de Nube y Sistemas Distribuidos 
+202520
+
+Estudiantes:
+Geronimo Gaviria Castaneda
+Mateo Roldan Herrera
+
+Enlace Repositorio: 
+	https://github.com/Mateo-R99/Proyecto-P2P
+
+Enlace Documentacion:
+	
+	https://github.com/Mateo-R99/Proyecto-P2P/blob/main/Documentacion/Documentacion%20P2P.pdf
+
+Enlace Video:
+	https://github.com/Mateo-R99/Proyecto-P2P/blob/main/Documentacion/video%20explicativo.mkv
+
+Autoevaluacion 100/100
